@@ -41,3 +41,9 @@ def topology_sort():
         print(i, end=' ')
 
 topology_sort()
+
+
+
+
+
+# 18일 분량
