@@ -15,3 +15,6 @@ def solution(progresses, speeds):
     result.append(count)
     return result
 
+
+# x라는 변수를 두고 반복되는 횟수를 곱해줘야 하는지?
+#
