@@ -8,6 +8,7 @@ def solution(progresses, speeds):
             progresses.pop(0)
             speeds.pop(0)
             count += 1
+        # elif문 생각해보자 2/6
         else:
             if count > 0:
               result.append(count)
