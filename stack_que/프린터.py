@@ -5,7 +5,7 @@ def solution(priorities, location):
     
     
     
-    
+    # test
     
     
     return answer
