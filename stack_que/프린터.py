@@ -15,6 +15,8 @@ def solution(priorities, location):
 
         if array2 == sorted(array2, reverse=True):
             break
+    
+    # test
 
     return array1.index(location) + 1
 
